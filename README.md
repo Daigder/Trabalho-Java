@@ -1,8 +1,7 @@
-### Trabalho-Java
-
-
+# Trabalho-Java
 
 package com.company;
+
 import java.util.Scanner;
 
 public class ColecaoPersonagem {
